@@ -4,3 +4,7 @@
 8306	http://a-example.com:10000/
 8306	http://a-example.com:10000/
 8306	http://a-example.com:10000/
+2391	http://a-example.com:10000/
+2391	http://a-example.com:10000/
+2391	http://a-example.com:10000/
+2391	http://a-example.com:10000/
